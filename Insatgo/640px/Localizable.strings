@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  Instago
+
+  Created by CODERLAB on 27.10.13.
+
+*/
+
+"Take_Photo_Cam" = "Take Photo";
+"choose_photo" = "Choose Photo";
+"channel_botton" = "Cancel";
+"load-s" = "Load...";
+"home_lable" = "Home";
+"activity_lable" = "Activity";
+//activity
+"liked your photo" = "liked your photo";
+"started following you" = "started following you";
+"commented on your photo"="commented on your photo";
+"joined Instago"="joined Instago";
+"Cancel"="Cancel";
+"My Profile"="My Profile";
+"Find Friends"="Find Friends";
+"Log Out"="Log Out";
+"Delete Photo"="Delete Photo";
+"Share Photo"="Share Photo";
+"Yes, delete photo"="Yes, delete photo";
+"Publish"="Publish";
+"Colorized photo"="Colorized photo";
+
+//comment
+"Add a comment"="Add a comment";
+"Field Add a comment - are required!!!"="Field Add a comment - are required!!!";
+"Dismiss"="Dismiss";
+
+//delete
+"Are you sure you want to delete this photo?"="Are you sure you want to delete this photo?";
+
+"0 photos"="0 photos";
+"photo"="photo";
+"photos"="photos";
+"Unfollow All"="Unfollow All";
+"Follow All"="Follow All";
+"Follow"="Follow";
+"Following"="Following";
+"Unfollow"="Unfollow";
+"follower"="follower";
